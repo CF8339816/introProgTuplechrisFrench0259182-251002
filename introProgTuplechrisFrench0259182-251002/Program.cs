@@ -100,7 +100,7 @@ namespace introProgTuplechrisFrench0259182_251002
 
             Red();
             Yellow();
-
+            Cyan();
             Red();
         }
 
